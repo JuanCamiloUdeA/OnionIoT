@@ -1,0 +1,22 @@
+[
+    {
+        "_id" : 1.0,
+        "email" : "alejandro.campillo@udea.edu.co",
+        "password" : "0000"
+    },
+    {
+        "_id" : 2.0,
+        "email" : "mauricio.canob@udea.edu.co",
+        "password" : "abcd1234"
+    },
+    {
+        "_id" : 3.0,
+        "email" : "susana.mejiae@udea.edu.co",
+        "password" : "12456s$"
+    },
+    {
+        "_id" : 4.0,
+        "email" : "camilo.mesa@udea.edu.co",
+        "password" : "jcma1234.,"
+    }
+]

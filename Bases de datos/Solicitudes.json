@@ -1,0 +1,62 @@
+[
+    {
+        "_id" : 1.0,
+        "nombresolicitante" : "Mauricio Perez",
+        "emailsolicitante" : "Mauropereza@gmail",
+        "bases de datos" : 1.0,
+        "justificacion" : " Nuestro grupo de investigación está interesado en señales respiratorias, especialmente las relacionadas al ventilador mecánico",
+        "Fecha de solicitud" : ISODate("2019-05-18T16:00:00.000Z"),
+        "Fecha de revision" : ISODate("2020-04-29T00:25:00.017Z"),
+        "Estado" : true
+    },
+    {
+        "_id" : 2.0,
+        "nombresolicitante" : "Mauricio Perez",
+        "emailsolicitante" : "Mauropereza@gmail",
+        "bases de datos" : 1.0,
+        "justificacion" : " Nuestro grupo de investigación está interesado en señales respiratorias, especialmente las relacionadas al ventilador mecánico",
+        "Fecha de solicitud" : ISODate("2019-05-18T16:00:00.000Z"),
+        "Fecha de revision" : null,
+        "Estado" : null
+    },
+    {
+        "_id" : 3.0,
+        "nombresolicitante" : "Humberto Mesa",
+        "emailsolicitante" : "humbertomm3@gmail",
+        "bases de datos" : 2.0,
+        "justificacion" : " Nuestro grupo de investigación está interesado en señales respiratorias",
+        "Fecha de solicitud" : ISODate("2019-04-18T16:00:00.000Z"),
+        "Fecha de revision" : null,
+        "Estado" : null
+    },
+    {
+        "_id" : 4.0,
+        "nombresolicitante" : "Susana Echeverry",
+        "emailsolicitante" : "suananae@gmail",
+        "bases de datos" : 1.0,
+        "justificacion" : "Quiero realizar una investigación con dichas señales",
+        "Fecha de solicitud" : ISODate("2019-05-18T16:00:00.000Z"),
+        "Fecha de revision" : ISODate("2020-02-18T16:00:00.000Z"),
+        "Estado" : true
+    },
+    {
+        "_id" : 5.0,
+        "nombresolicitante" : "Alambrito Guitierrez",
+        "emailsolicitante" : "alambre@gmail",
+        "bases de datos" : 4.0,
+        "justificacion" : "Quiero realizar una investigación con dichas señales",
+        "Fecha de solicitud" : ISODate("2019-05-18T16:00:00.000Z"),
+        "Fecha de revision" : ISODate("2020-02-18T16:00:00.000Z"),
+        "Estado" : true
+    },
+    {
+        "_id" : 6.0,
+        "nombresolicitante" : "Angel Rey",
+        "emailsolicitante" : "angelrey@gmail",
+        "bases de datos" : 3.0,
+        "justificacion" : "Me gustaria concer mas acerca de las señales de EMG",
+        "Fecha de solicitud" : ISODate("2019-05-18T16:00:00.000Z"),
+        "Fecha de revision" : ISODate("2020-01-18T16:00:00.000Z"),
+        "Estado" : false
+    }
+]
